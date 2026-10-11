@@ -3,7 +3,7 @@
 I build interfaces people trust with important things. The craft I care about most is the part users never notice: forms that never jump, loading states that hold their shape, text that says exactly what happened, and screens that still work on a slow connection or a cracked old phone.
 
 **Frontend**
-- React, Next.js and React Native with Expo, in TypeScript
+- React and Next.js on the web; React Native with Expo and Flutter on mobile
 - Design systems and tokens that hold up in light and dark
 - Motion with purpose: Reanimated, SVG, native transitions, and respect for Reduce Motion
 - Accessibility as part of the spec: screen readers, focus, contrast, large text
