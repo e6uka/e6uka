@@ -1,4 +1,4 @@
-### Frontend engineer in Lagos, building at Vertex Labs
+### Frontend engineer in Lagos, building at Medly Health Technologies
 
 I build interfaces people trust with important things. The craft I care about most is the part users never notice: forms that never jump, loading states that hold their shape, text that says exactly what happened, and screens that still work on a slow connection or a cracked old phone.
 
